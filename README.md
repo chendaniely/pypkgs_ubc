@@ -20,7 +20,16 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_ubc
 
 ## Usage
 
-- TODO
+```
+>>> from pypkgs import pypkgs
+>>> import pandas as pd
+>>> a = pd.Categorical(["character", "hits", "your", "eyeballs"])
+>>> b = pd.Categorical(["but", "integer", "where it", "counts"])
+>>> pypkgs.catbind(a, b)
+[character, hits, your, eyeballs, but, integer, where it, counts]
+Categories (8, object): [but, character, counts,
+eyeballs, hits, integer, where it, your]
+```
 
 ## Documentation
 
