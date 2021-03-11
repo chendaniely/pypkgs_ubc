@@ -1,6 +1,6 @@
 # pypkgs_ubc 
 
-![](https://github.com/UBC-MDS/pypkgs_ubc/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/UBC-MDS/pypkgs_ubc/branch/main/graph/badge.svg)](https://codecov.io/gh/UBC-MDS/pypkgs_ubc) ![Release](https://github.com/UBC-MDS/pypkgs_ubc/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_ubc/badge/?version=latest)](https://pypkgs_ubc.readthedocs.io/en/latest/?badge=latest)
+![](https://github.com/UBC-MDS/pypkgs_ubc/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/UBC-MDS/pypkgs_ubc/branch/main/graph/badge.svg)](https://codecov.io/gh/UBC-MDS/pypkgs_ubc) [![Deploy](https://github.com/UBC-MDS/pypkgs_ubc/actions/workflows/deploy.yml/badge.svg)](https://github.com/UBC-MDS/pypkgs_ubc/actions/workflows/deploy.yml) [![Documentation Status](https://readthedocs.org/projects/pypkgs_ubc/badge/?version=latest)](https://pypkgs_ubc.readthedocs.io/en/latest/?badge=latest)
 
 Demo python package
 
