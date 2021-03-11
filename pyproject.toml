@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypkgs_ubc"
-version = "0.1.0"
+version = "0.1.1"
 description = "Demo python package"
 authors = ["ttimbers <tiffany.timbers@stat.ubc.ca>"]
 license = "MIT"
