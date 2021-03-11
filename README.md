@@ -16,7 +16,7 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_ubc
 
 ## Dependencies
 
-- TODO
+- `pandas`
 
 ## Usage
 
