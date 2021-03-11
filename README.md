@@ -12,7 +12,7 @@ $ pip install -i https://test.pypi.org/simple/ pypkgs_ubc
 
 ## Features
 
-- TODO
+`catbind` function let's you merge `pandas` categoricals with ease!
 
 ## Dependencies
 
